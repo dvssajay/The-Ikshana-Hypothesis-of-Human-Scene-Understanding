@@ -1,0 +1,13 @@
+
+Challenge,Method
+pixellevel,Ikshana_3
+
+"Class level"
+Metric,Average,road,sidewalk,building,wall,fence,pole,trafficlight,trafficsign,vegetation,terrain,sky,person,rider,car,truck,bus,train,motorcycle,bicycle
+IoU,44.4031,94.6425,65.7969,83.3108,20.6805,17.9195,35.6853,25.3496,41.0101,88.7005,62.2223,89.8082,54.0612,2.94644,83.288,9.62748,6.09579,17.7938,4.89832,39.8211
+iIoU,19.1977,,,,,,,,,,,,36.3939,0.916904,73.3146,3.33593,3.36203,8.80821,1.93211,25.5177
+
+"Category level"
+Metric,Average,flat,nature,object,sky,construction,human,vehicle
+IoU,76.7719,95.0689,88.2208,38.9748,89.8082,83.4259,59.8496,82.0551
+iIoU,55.7336,,,,,,40.5541,70.9132

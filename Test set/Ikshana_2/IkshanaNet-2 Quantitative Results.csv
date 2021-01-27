@@ -1,0 +1,13 @@
+
+Challenge,Method,"Submission Date"
+pixellevel,Ikshana_2,"2020-11-01 11:00:53"
+
+"Class level"
+Metric,Average,road,sidewalk,building,wall,fence,pole,trafficlight,trafficsign,vegetation,terrain,sky,person,rider,car,truck,bus,train,motorcycle,bicycle
+IoU,49.1426,93.5085,68.7146,84.5306,23.4184,22.8485,42.6576,40.721,51.0785,89.3747,65.098,90.0025,62.9644,20.194,85.7881,8.98643,11.3436,6.04745,16.6581,49.7737
+iIoU,23.0744,,,,,,,,,,,,45.3738,8.34997,76.2812,4.36123,8.5624,2.95168,8.09955,30.6154
+
+"Category level"
+Metric,Average,flat,nature,object,sky,construction,human,vehicle
+IoU,79.4257,93.8738,88.9454,47.3012,90.0025,84.4796,68.1698,83.2074
+iIoU,60.9534,,,,,,48.9464,72.9604
