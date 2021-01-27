@@ -1,0 +1,3 @@
+The training set was divided into 1993 training images, and 982 validation images for all the validation set experiments. 
+The train_test_split with test_size=0.33 and random_state=42 was used to ensure that each time the split contains the same images.
+The 500 validation images were used as a test set.
