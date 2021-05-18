@@ -1,8 +1,4 @@
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/ikshana-a-theory-of-human-scene-understanding/semantic-segmentation-on-cityscapes)](https://paperswithcode.com/sota/semantic-segmentation-on-cityscapes?p=ikshana-a-theory-of-human-scene-understanding)
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/ikshana-a-theory-of-human-scene-understanding/semantic-segmentation-on-cityscapes-val)](https://paperswithcode.com/sota/semantic-segmentation-on-cityscapes-val?p=ikshana-a-theory-of-human-scene-understanding)
 
 # Ikshana : A Theory of Human Scene Understanding Mechanism
-# Abstract: 
-In recent years, deep neural networks achieved state-of-the-art performance on many computer vision tasks. The two most commonly observed drawbacks of these deep neural networks are: the requirement of a massive amount of labeled data and a vast number of parameters. In this work, we propose a theory named Ikshana, to explain the functioning of the human brain, while humans understand a natural scene/image. We have designed an architecture named IkshanaNet and evaluated on the Cityscapes pixel-level semantic segmentation benchmark, to show how to implement our theory in practice. The results showed that the Ikshana theory could perform with less training data. Also, through some experiments evaluated on the validation set, we showed that the Ikshana theory can significantly reduce the number of parameters of the network. In conclusion, a deep neural network designed by following the Ikshana theory will learn better vector representations of the image, useful for any computer vision task.
 # paper: https://arxiv.org/abs/2101.10837
